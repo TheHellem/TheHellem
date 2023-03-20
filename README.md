@@ -6,5 +6,5 @@ Welcome! I am a Norwegian web developer based in Berlin. Currently looking for w
 - 🌱 I’m currently learning Typescript and Jest
 
 
-[![Find me on: ](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/henrik-hellem/)
+Find me on: [![LinkedIn](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/henrik-hellem/)
 
