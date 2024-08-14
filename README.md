@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate geoinformatics student with a lov
 ## 🚀 About Me
 
 - 🔭 I’m currently working on LaTex templates and a personal webpage with React 
-- 🌱 I’m currently learning QGIS
+- 🌱 I’m currently learning QGIS and TypeSCript
 ---
 
 Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you’d like to collaborate or chat.
