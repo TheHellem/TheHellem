@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate geoinformatics student with a lov
 ## 🚀 About Me
 
 - 🔭 I’m currently working on a personal webpage with Vite and React
-- 🌱 I’m currently learning CloudCompare, QGIS and TypeScript
+- 🌱 I’m currently learning three.js, QGIS and TypeScript
 ---
 
 Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you’d like to collaborate or chat.
